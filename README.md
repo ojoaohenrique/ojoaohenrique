@@ -1,10 +1,12 @@
 <p align="center">
-  Estudante de Engenharia da Computação e desenvolvedor em formação. 
+  Estudante de Engenharia da Computação e desenvolvedor em formação.
   Atualmente estou no 6º semestre e venho desenvolvendo projetos utilizando principalmente JavaScript, React, TypeScript e bancos de dados.
   <br><br>
-  Tenho interesse em desenvolvimento de software e estou constantemente estudando e colocando meus conhecimentos em prática através de projetos próprios.
+  Tenho interesse em desenvolvimento de software, cibersegurança e tecnologia, buscando constantemente ampliar meus conhecimentos e colocar o que aprendo em prática através de projetos próprios.
+  <br><br>
   Busco evoluir minhas habilidades, aprender novas tecnologias e transformar ideias em soluções reais.
 </p>
+
 
 #
 
