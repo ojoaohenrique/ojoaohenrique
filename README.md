@@ -7,58 +7,75 @@
   Busco evoluir minhas habilidades, aprender novas tecnologias e transformar ideias em soluções reais.
 </p>
 
-
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="Coding" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge\&logo=microsoft-outlook\&logoColor=00D9FF\&color=FFF)](mailto:gtxfanfa@gmail.com)
+<div align="left">
+  <a href="mailto:gtxfanfa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00D9FF" alt="Email" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=00D9FF\&color=FFF)](https://www.linkedin.com/in/jo%C3%A3o-henrique-fanfa-80127b304/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=00D9FF\&color=FFF)](SEU_INSTAGRAM)
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-fanfa-80127b304/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
+  </a>
+</div>
 
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="TypeScript" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="Tailwind CSS" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="PostgreSQL" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="25" alt="supabase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="25" alt="Supabase" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub" />
+</div>
+
+<h3 align="left">Areas of Interest ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux" />
+  <img width="8" />
+
+Web Security <img width="8" />
+
+Cybersecurity <img width="8" />
+
+Networking
+
 </div>
 
 #
 
-<div style="text-align: center;" align="center">
+<div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
 
@@ -74,5 +91,5 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojoaohenrique/ojoaohenrique/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojoaohenrique/ojoaohenrique/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ojoaohenrique/ojoaohenrique/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ojoaohenrique/ojoaohenrique/output/github-contribution-grid-snake.svg">
 </picture>
