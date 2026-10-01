@@ -1,4 +1,3 @@
-
 <p align="center">
   Estudante de Engenharia da Computação e desenvolvedor em formação. 
   Atualmente estou no 6º semestre e venho desenvolvendo projetos utilizando principalmente JavaScript, React, TypeScript e bancos de dados.
@@ -13,11 +12,11 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge\&logo=microsoft-outlook\&logoColor=00D9FF\&color\:FFF)](mailto:SEU_EMAIL)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge\&logo=microsoft-outlook\&logoColor=00D9FF\&color=FFF)](mailto:gtxfanfa@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=00D9FF\&color\:FFF)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=00D9FF\&color=FFF)](https://www.linkedin.com/in/jo%C3%A3o-henrique-fanfa-80127b304/)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=00D9FF\&color\:FFF)](SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=00D9FF\&color=FFF)](SEU_INSTAGRAM)
 
 <h3 align="left">My Stack ~</h3>
 
