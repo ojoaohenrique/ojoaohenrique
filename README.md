@@ -76,7 +76,7 @@ Networking
 #
 
 <div align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>* Stats *</h3>
   <br>
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ojoaohenrique&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00D9FF&text_color=FFF&border_radius=3&border_color=12323c&icon_color=00D9FF&theme=radical" alt="GitHub stats">
